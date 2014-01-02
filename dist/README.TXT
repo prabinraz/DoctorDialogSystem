@@ -1,23 +1,3 @@
-DoctorDialogSystem
-==================
-
-Expert System for Hospitals and healthposts.
-
-========================
-SOURCE FILES DESCRIPTION
-========================
-The source files are located in: 
-
-/src/doctordialogsystem/UnicodeGenerator.java
-/src/doctordialogsystem/Main.java
-/src/doctordialogsystem/QuestionAnswerCollector.java
-/src/doctordialogsystem/DialogFrame.java
-/src/doctordialogsystem/main.pl
-/src/doctordialogsystem/rules.pl
-/src/doctordialogsystem/knowledgeBase.pl
-/src/doctordialogsystem/notations.pl
-
-
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
